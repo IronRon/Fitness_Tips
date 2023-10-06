@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Fitness Tips</string>
+    <string name="day">Day %d</string>
+    <string name="summary_goal_1">Bicep Curls</string>
+    <string name="summary_goal_2">Tricep Extension</string>
+    <string name="summary_goal_3">Barbell Squats</string>
+    <string name="summary_goal_4">Lat Pulldowns</string>
+    <string name="summary_goal_5">Incline Dumbell Press</string>
+    <string name="summary_goal_6">Seated Cable Rows</string>
+    <string name="summary_goal_7">Lat Pullover</string>
+    <string name="summary_goal_8">Hammer Curls</string>
+    <string name="summary_goal_9">Leg Extension</string>
+    <string name="summary_goal_10">Shoulder Press</string>
+    <string name="summary_goal_11">Lat Raises</string>
+    <string name="summary_goal_12">Face Pulls</string>
+    <string name="summary_goal_13">Pull Ups</string>
+    <string name="summary_goal_14">Tricep dips</string>
+    <string name="summary_goal_15">Preacher Curls</string>
+
+
+    <string name="goal_1_text">Stand with feet shoulder-width apart, hold dumbbells with palms forward. Curl dumbbells towards shoulders, squeeze biceps, lower slowly. Repeat for desired reps.</string>
+    <string name="goal_2_text">Stand with feet shoulder-width apart, hold dumbbell with both hands. Raise it above head, lower it behind head by bending elbows. Extend arms upward, repeat for desired reps.</string>
+    <string name="goal_3_text">Stand with feet shoulder-width apart, place barbell on upper back. Bend knees, lower into squat position. Keep back straight, push through heels to stand up. Repeat for desired reps.</string>
+    <string name="goal_4_text">Sit at a lat pulldown machine, grasp the bar with hands wider than shoulder-width apart. Pull the bar down towards chest, squeezing back muscles. Slowly release and repeat for desired reps.</string>
+    <string name="goal_5_text">Lie on an incline bench, hold dumbbells at shoulder level. Press them upward until arms are extended. Lower with control, keeping elbows slightly bent. Repeat for desired reps.</string>
+    <string name="goal_6_text">Sit at a cable row machine with feet on the footrests. Grab the handles with arms extended. Pull handles toward torso, squeezing shoulder blades. Release and repeat for desired reps.</string>
+    <string name="goal_7_text">Lie on a bench, hold a dumbbell above your chest with both hands. Lower it backward over your head, maintaining a slight bend in your elbows. Pull it back up to the starting position. Repeat for desired reps.</string>
+    <string name="goal_8_text">Stand with feet shoulder-width apart, hold dumbbells with palms facing your body. Keep elbows close to your sides, curl dumbbells upward. Lower and repeat for desired reps.</string>
+    <string name="goal_9_text">Sit on a leg extension machine, adjust the pad to rest against your lower shins. Extend your legs forward, lifting the weight. Slowly lower to starting position. Repeat for desired reps.</string>
+    <string name="goal_10_text">Stand or sit with dumbbells in hand at shoulder level. Press the weights upward, extending arms fully. Lower them back down to shoulder level. Repeat for desired reps.</string>
+    <string name="goal_11_text">Stand with dumbbells in hand, palms facing inward. Raise your arms to the sides until they are parallel to the floor. Lower them back down. Repeat for desired reps.</string>
+    <string name="goal_12_text">Attach a rope or handle to a cable machine at chest height. Stand with feet shoulder-width apart, grab the handles, and pull them towards your face, keeping elbows high and out to the sides. Squeeze your shoulder blades together. Slowly release and repeat for desired reps.</string>
+    <string name="goal_13_text">Hang from a pull-up bar with palms facing away. Pull your body up until your chin clears the bar. Lower yourself down with control. Repeat for desired reps.</string>
+    <string name="goal_14_text">Sit on the edge of a bench or chair, place your hands on the edge beside you, fingers forward. Slide your hips off the bench, bend elbows to lower your body, then push back up. Repeat for desired reps.</string>
+    <string name="goal_15_text">Sit at a preacher curl bench, place upper arms on the angled pad, hold a barbell with an underhand grip. Curl the barbell upward, contracting your biceps. Lower it back down with control. Repeat for desired reps.</string>
+
+    <string name="expand_button_content_description">See more or less information about a tip.</string>
+    <string name="grid_button_content_description">Switch from column view to grid view.</string>
+
+</resources>
